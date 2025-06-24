@@ -1,0 +1,16 @@
+id,sender,recipient,subject,message,label,priority
+1,sender@example.com,recipient@example.com,Test Subject,Test Content,Unread,1
+2,sender@example.com,recipient@example.com,Test subject,Test message content.,unread,3
+3,sender@example.com,recipient@example.com,Test subject,Test message content.,unread,3
+4,sender@example.com,recipient@example.com,Test subject,Test message content.,unread,3
+5,invalid-email,recipient@example.com,Test subject,Test message content.,unread,3
+6,sender@example.com,recipient@example.com,Test subject,Test message content.,unread,10
+7,,recipient@example.com,Test subject,Test message content.,unread,3
+8,sender@example.com,recipient@example.com,Test subject,Test message content.,unread,3
+9,sender@example.com,recipient@example.com,Test subject,Test message content.,unread,3
+10,sender@example.com,recipient@example.com,Test Subject,Test Content,Unread,1
+11,sender@example.com,recipient@example.com,Test subject,Test message content.,unread,3
+12,sender@example.com,recipient@example.com,Test subject,Test message content.,Unread,3
+13,sender@example.com,recipient@example.com,Test Subject,Test Content,Unread,1
+14,sender@example.com,recipient@example.com,Test subject,Test message content.,Unread,3
+15,sender@example.com,recipient@example.com,Test subject,Test message content.,Unread,3

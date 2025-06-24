@@ -1,0 +1,16 @@
+id,sender,recipient,subject,message,label,priority
+1,A.Tutor@grandwich.ac.uk,B.Tutor@grandwich.ac.uk,Hello,How is the course going.,Read,2
+2,B.Tutor@grandwich.ac.uk,A.Tutor@grandwich.ac.uk,Re: Hello,"> How is the course going? 
+
+
+Brilliant, thanks. The students are all fantastic and are going to get top marks in their coursework.",Unread,2
+3,A.Friend@kmail.com,A.Tutor@grandwich.ac.uk,Coffee,You're working too hard - fancy meeting for coffee?.,Personal,5
+4,A.Tutor@grandwich.ac.uk,C.Tutor@grandwich.ac.uk,Exam,I have nearly finished writing the exam - I hope the students have revised hard.,Important,4
+5,A.Student@grandwich.ac.uk,A.Tutor@grandwich.ac.uk,Timetable,"Dear Tutor,
+
+help!!! my timetable is rubbish - i cant understand it!!! please tell me what to do?
+
+from A.Student",Work,0
+6,A.Tutor@grandwich.ac.uk,A.Student@grandwich.ac.uk,Re: Timetable,Please follow the advice on Moodle - all will be clear.,Read,0
+7,A.Student@grandwich.ac.uk,A.Tutor@grandwich.ac.uk,Re: Timetable,tnx :),Unread,0
+8,A.B.garratt@gre.ac.uk,mg8768a@gre.ac.uk,Test Email,This is a test email.,Work,3
